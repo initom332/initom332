@@ -24,14 +24,13 @@ Outside of work, I enjoy swimming or just researching new methods.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a sales forecasting model in Python.]  
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
-- [Advanced machine learning techniques in Scikit-learn.]
-- [Natural Language Processing with Pytouch.]
+- Advanced machine learning techniques in Scikit-learn.
+- Natural Language Processing with Pytouch.
 
 ## 🛠️ Technical Skillset
 
@@ -44,12 +43,12 @@ Outside of work, I enjoy swimming or just researching new methods.
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-  <img src="https://img.shields.io/badge/Fabrics-Expert-E97627?style=flat&logo=Fabrics&logoColor=white" alt="Fabrics Skill Badge">
+  <img src="https://img.shields.io/badge/Fabrics-Expert-660033?style=flat&logo=Fabrics&logoColor=white" alt="Fabrics Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-660043?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
@@ -57,6 +56,6 @@ Outside of work, I enjoy swimming or just researching new methods.
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-660033?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
