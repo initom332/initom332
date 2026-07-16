@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Exploratory+Data+Analysis+&+Visualization;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+Scientist+%26+Business+Intelligence;Turning+Data+into+Actionable+Insights;Exploratory+Data+Analysis+&+Visualization;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -24,7 +24,7 @@ Outside of work, I enjoy swimming or just researching new methods.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building a sales forecasting model in Python.]  
+- **Project A:** Building a sales forecasting model in Python. 
 - **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 ## 🌱 Currently Learning 
